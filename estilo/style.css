@@ -4,8 +4,9 @@
 
 @font-face {
     font-family: 'android' ;
-    src: url('/desafios/MOD2/desafio 10cv/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
+    
 }
 
 :root{/*variavevais começam com 2 traços*/
