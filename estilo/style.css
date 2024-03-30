@@ -61,7 +61,7 @@ header > p{
     font-family: var(--fonte-padrao); /*tipo de fonte*/
     font-size: 1.2em; /*tamanho*/
     color: white;
-    width: 500px; /*largura maxima*/
+    max-width: 500px; /*largura maxima*/
     padding-right: 10xp; /*preenchimento laterais*/
     padding-left: 10px;
     margin: auto; /*margem automatica center*/
