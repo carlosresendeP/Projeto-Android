@@ -56,7 +56,7 @@ header  > h1{
     
 }
 
-header:em
+
 header > p{
     font-family: var(--fonte-padrao); /*tipo de fonte*/
     font-size: 1.2em; /*tamanho*/
